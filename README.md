@@ -1,3 +1,5 @@
+please refer to the original author, this is just a copy for personal use: https://github.com/louislam/uptime-kuma
+
 <div align="center" width="100%">
     <img src="./public/icon.svg" width="128" alt="" />
 </div>
